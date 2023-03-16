@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" src="https://github.com/erickszz/erickszz/blob/d1169ae9054699d0ada8d77b4e9f1373185344eb/coding-typing.gif">
+    <img align="left" height="250" src="https://github.com/erickszz/erickszz/blob/main/coding-typing.gif">
     <h1 align="center">Estudando 📖</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
